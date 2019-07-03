@@ -75,7 +75,7 @@ namespace SlidingWindowMaximum
                 {
                     result.Add(arr[list.First.Value]);
 
-                    // Removeing all the elements indexes which are not in the current window
+                    // Removing all the elements indexes which are not in the current window
                     while (list.Count > 0 && list.First.Value <= i - windowSize)
                         list.RemoveFirst();
 
