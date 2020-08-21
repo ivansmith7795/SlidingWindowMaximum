@@ -1,2 +1,2 @@
 # SlidingWindowMaximum
-Wednesday, August 5, 2020
+Thursday, August 20, 2020
